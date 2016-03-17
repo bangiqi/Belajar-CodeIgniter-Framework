@@ -1,0 +1,12 @@
+site_name: Codeigniter Framework
+theme: journal
+
+pages:
+- Home: 'index.md'
+
+- User Guide: 
+    - Pengenalan : 'user_guide/pengenalan.md'
+    - Knowledge : 'user_guide/knowledge.md'
+    - Instalasi : 'user_guide/instalasi.md'
+
+- Resources: 'resources.md'

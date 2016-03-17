@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>None/</loc>
+     <lastmod>2016-03-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>None/user_guide/pengenalan/</loc>
+     <lastmod>2016-03-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/user_guide/knowledge/</loc>
+     <lastmod>2016-03-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/user_guide/instalasi/</loc>
+     <lastmod>2016-03-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>None/resources/</loc>
+     <lastmod>2016-03-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+</urlset>

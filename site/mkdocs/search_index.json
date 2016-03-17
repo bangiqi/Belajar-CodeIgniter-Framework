@@ -1,0 +1,99 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Menyelami Framework CodeIgniter\n\n\nUser guide menyelami framework codeigniter ini merupakan panduan penggunaan framework \ncodeigniter\n dari mulai instalasi sampai contoh studi kasus dengan memanfaatkan framework codeigniter. Dimana terdapat panduan dan tahapan-tahapan dalam mempelajari framework codeigniter ini. Semoga dengan adanya ini pembaca dapat menerapkan framework codeigniter pada studi kasus yang nyata dan dapat bermanfaat.\n\n\ncontact : ramdani.rizki19@gmail.com", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#menyelami-framework-codeigniter", 
+            "text": "User guide menyelami framework codeigniter ini merupakan panduan penggunaan framework  codeigniter  dari mulai instalasi sampai contoh studi kasus dengan memanfaatkan framework codeigniter. Dimana terdapat panduan dan tahapan-tahapan dalam mempelajari framework codeigniter ini. Semoga dengan adanya ini pembaca dapat menerapkan framework codeigniter pada studi kasus yang nyata dan dapat bermanfaat.  contact : ramdani.rizki19@gmail.com", 
+            "title": "Menyelami Framework CodeIgniter"
+        }, 
+        {
+            "location": "/user_guide/pengenalan/", 
+            "text": "Pengenalan\n\n\nApa itu CodeIgniter\n\n\nCodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.\n\n\nFramework\n\n\nApa itu framework\n\n\nCodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.\n\n\nKenapa menggunakan framework\n\n\nCodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.\n\n\nKapan menggunakan framework\n\n\nCodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.\n\n\nJenis-Jenis Framework PHP\n\n\n\n\nCodeIgniter\n\n\nCake PHP\n\n\nLaravel Framework\n\n\nZend Framework\n\n\nYii Framework\n\n\nKohana Framework", 
+            "title": "Pengenalan"
+        }, 
+        {
+            "location": "/user_guide/pengenalan/#pengenalan", 
+            "text": "", 
+            "title": "Pengenalan"
+        }, 
+        {
+            "location": "/user_guide/pengenalan/#apa-itu-codeigniter", 
+            "text": "CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.", 
+            "title": "Apa itu CodeIgniter"
+        }, 
+        {
+            "location": "/user_guide/pengenalan/#framework", 
+            "text": "", 
+            "title": "Framework"
+        }, 
+        {
+            "location": "/user_guide/pengenalan/#apa-itu-framework", 
+            "text": "CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.", 
+            "title": "Apa itu framework"
+        }, 
+        {
+            "location": "/user_guide/pengenalan/#kenapa-menggunakan-framework", 
+            "text": "CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.", 
+            "title": "Kenapa menggunakan framework"
+        }, 
+        {
+            "location": "/user_guide/pengenalan/#kapan-menggunakan-framework", 
+            "text": "CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.", 
+            "title": "Kapan menggunakan framework"
+        }, 
+        {
+            "location": "/user_guide/pengenalan/#jenis-jenis-framework-php", 
+            "text": "CodeIgniter  Cake PHP  Laravel Framework  Zend Framework  Yii Framework  Kohana Framework", 
+            "title": "Jenis-Jenis Framework PHP"
+        }, 
+        {
+            "location": "/user_guide/knowledge/", 
+            "text": "Knowledge\n\n\nAdapun beberapa pengetahuan yang harussudah dikuasai sebelumnya sebelum menggunakan framework codeigniter, diantaranya\n\n\nPengetahuan yang dibutuhkan\n\n\n\n\n\n\nKonsep OOP (object Oriented Programming)\n\n\n\n\nClass \n Object\n\n\nMethod \n Properties\n\n\n\n\n\n\n\n\nBasic PHP\n\n\n\n\nVariable\n\n\nArray\n\n\nMethod (fungsi)\n\n\n\n\n\n\n\n\nBasic operation syntax SQL\n\n\n\n\nDML ( Data Manipulation Language)\n        INSERT, SELECT, UPDATE, DELETE\n\n\nKonsep MVC Design Pattern (Model View Controller)", 
+            "title": "Knowledge"
+        }, 
+        {
+            "location": "/user_guide/knowledge/#knowledge", 
+            "text": "Adapun beberapa pengetahuan yang harussudah dikuasai sebelumnya sebelum menggunakan framework codeigniter, diantaranya", 
+            "title": "Knowledge"
+        }, 
+        {
+            "location": "/user_guide/knowledge/#pengetahuan-yang-dibutuhkan", 
+            "text": "Konsep OOP (object Oriented Programming)   Class   Object  Method   Properties     Basic PHP   Variable  Array  Method (fungsi)     Basic operation syntax SQL   DML ( Data Manipulation Language)\n        INSERT, SELECT, UPDATE, DELETE  Konsep MVC Design Pattern (Model View Controller)", 
+            "title": "Pengetahuan yang dibutuhkan"
+        }, 
+        {
+            "location": "/user_guide/instalasi/", 
+            "text": "Instalasi\n\n\nSebelum memulai menggunakan codeigniter alangkah baiknya kita perhatikan requitment software yang diperlukan dalam penggunaan framework \ncodeigniter\n itu sendiri.\n\n\nRequitment Software\n\n\n\n\nWeb Server\n , seperti \nApache\n, \nNginx\n atau \nXAMPP\n\n\nPHP\n\n\nMysql\n atau \nMariaDB\n\n\nFramework CodeIgniter\n\n\nText Editor\n atau \nIDE\n contoh \nnotepad++\n, \nsublime text\n, \nnetbeans\n dan sebagainya.\n\n\n\n\nProses Instalasi\n\n\n\n\n\n\nInstalasi webserver\n\n\npastikan webserver sudah terinstall pada sistem operasinya baik \nWindows\n, \nLinux\n ataupun \nMac OS\n.\n\n\n\n\n\n\nDownload framework codeigniter \n\n\nCodeigniter dapat didownload pada website resmi \nCodeIgniter\n  atau melaui link mirror berikut, terdapat dua versi yaitu :\n\n\n- CodeIgniter versi 3.0 ( download disini )\n- Codeigniter versi 2.x ( download disini )", 
+            "title": "Instalasi"
+        }, 
+        {
+            "location": "/user_guide/instalasi/#instalasi", 
+            "text": "Sebelum memulai menggunakan codeigniter alangkah baiknya kita perhatikan requitment software yang diperlukan dalam penggunaan framework  codeigniter  itu sendiri.", 
+            "title": "Instalasi"
+        }, 
+        {
+            "location": "/user_guide/instalasi/#requitment-software", 
+            "text": "Web Server  , seperti  Apache ,  Nginx  atau  XAMPP  PHP  Mysql  atau  MariaDB  Framework CodeIgniter  Text Editor  atau  IDE  contoh  notepad++ ,  sublime text ,  netbeans  dan sebagainya.", 
+            "title": "Requitment Software"
+        }, 
+        {
+            "location": "/user_guide/instalasi/#proses-instalasi", 
+            "text": "Instalasi webserver  pastikan webserver sudah terinstall pada sistem operasinya baik  Windows ,  Linux  ataupun  Mac OS .    Download framework codeigniter   Codeigniter dapat didownload pada website resmi  CodeIgniter   atau melaui link mirror berikut, terdapat dua versi yaitu :  - CodeIgniter versi 3.0 ( download disini )\n- Codeigniter versi 2.x ( download disini )", 
+            "title": "Proses Instalasi"
+        }, 
+        {
+            "location": "/resources/", 
+            "text": "Resources\n\n\nSumber link terkait", 
+            "title": "Resources"
+        }, 
+        {
+            "location": "/resources/#resources", 
+            "text": "Sumber link terkait", 
+            "title": "Resources"
+        }
+    ]
+}
